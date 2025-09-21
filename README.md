@@ -22,7 +22,7 @@ This project contains a **cohort retention analysis** of game players over a 10-
 
 ## Project Data
 All data for this analysis is available in a single **Google Sheet**:
-- [View Cohort & Engagement Data](https://docs.google.com/spreadsheets/d/1cOm9vqfeQqBHWsLseepIOG3EaPkCYMUiG6ga8GIjV8s/edit?usp=sharing) — includes:  
+- [Cohort Analysis of Game Players](https://docs.google.com/spreadsheets/d/1cOm9vqfeQqBHWsLseepIOG3EaPkCYMUiG6ga8GIjV8s/edit?usp=sharing) — includes:  
   - Monthly active users  
   - Cohort retention table  
   - DAU, WAU, and Stickiness metrics  
