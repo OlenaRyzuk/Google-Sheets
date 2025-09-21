@@ -28,6 +28,9 @@ All data for this analysis is available in a single **Google Sheet**:
   - DAU, WAU, and Stickiness metrics  
   - Optional slicers for interactive analysis 
 
+## Technologies Used
+- Google Sheets (pivot tables, slicers, retention analysis, engagement metrics)
+
 ## Methodology
 1. Cohorts were created by players’ first activity month (Month 0 = onboarding).  
 2. For each cohort, active users were counted for every subsequent month.  
